@@ -41,7 +41,7 @@
     "uniqCompNum": 88,
     "versionPublish": "5.3.0",
     "path": "@PROJECT_PATH@",
-    "favicon": "",
+    "favicon": false,
     "noImageResize": "",
     "cookiesAlert": {
       "customDialogSelector": false,
@@ -70,7 +70,13 @@
       }
     ],
     "screenshot": "screenshot.png",
-    "imageResize": true
+    "imageResize": true,
+    "mbrsiteDomain": "q1axr8s4de",
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "gdpr": false
   },
   "pages": {
     "kurser.html": {
